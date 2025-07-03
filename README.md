@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Fawzi</h1>
-<h3 align="center">Backend developer - PHP and Laravel Framework</h3>
+<h3 align="center">Backend Developer - PHP and Laravel Framework</h3>
 
 - I’m currently working on [Websolla](Https://www.websolla.com)
 
